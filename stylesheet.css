@@ -2,6 +2,7 @@ body {
 	background-image:white;
    font-family:calibri,'open sans',serif;
 }
+/* Navigation*/
 nav {
 	
 	background-color:gray;
@@ -25,11 +26,8 @@ ul li a{
 	line-height:25px;
 	float:right;
 	text-shadow: 1px 1px  #090c02;
-
 }
 	
-
-
 content{
 	background-color:white;
 	height:auto;
@@ -39,19 +37,14 @@ section{
 	width:29%;
 	float:left;
 	margin:1% 2%;
-	text-align:center;
-	
+	text-align:center;	
 }
-
-
 h2{
 	background-color:gray;
 	text-align:center;
 	color:white;
 	width:auto;
-	
-
-}
+	}
 .clear{
 	 clear:both;
 }
@@ -61,8 +54,6 @@ footer{
 	text-align:center;
 	color :white;
 }
-
-
 	h1{
 		font-family:verdana;
 		color:white;
