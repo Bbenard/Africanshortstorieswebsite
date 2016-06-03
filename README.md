@@ -1,3 +1,3 @@
 # Africanshortstorieswebsite
 #Africa Short Stories application 
-This website contain Generaly African ShortStories
+This website contain Generaly African Short Stories
